@@ -13,19 +13,22 @@
  # ans:  The Python interpreter
 
 # Exercise 5: What is wrong with the following code:
-# >>> primt 'Hello world!'
-# File "<stdin>", line 1
- # primt 'Hello world!'
+ primt 'Hello world!'
+ File "<stdin>", line 1
+  primt 'Hello world!'
+
+# ans: The word 'primt'
+
 
 # Exercise 6: Where in the computer is a variable such as “x” stored after the following Python line finishes?
 # x = 123
  # ans: Main Memory
 
 #Exercise 7: What will the following program print out:
-# x = 43
-# x = x- 1
-# print(x)
- # ans: 42
+ x = 43
+ x = x- 1
+ print(x)
+ ans: 42
 
 # Exercise 8: Explain each of the following using an example of a human capability:
 # (1) Central processing unit, (2) Main Memory, (3) Secondary Memory, (4) Input
